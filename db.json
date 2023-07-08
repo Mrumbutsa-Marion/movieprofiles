@@ -1,74 +1,225 @@
 {
-  "users": [
+  "films": [
     {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "id": "1",
+      "title": "Knights of the Zodiac",
+      "genre": " Action, Adventure, Drama",
+      "runtime": "108",
+      "capacity": 30,
+      "showtime": "04:00PM",
+      "tickets_sold": 27,
+      "description": "When a goddess of war reincarnates in the body of a young girl, street orphan Seiya discovers that he is destined to protect her and save the world. But only if he can face his own past and become a Knight of the Zodiac.",
+      "poster": "https://i.goojara.to/mb_228_228850.jpg"
     },
     {
-      "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "id": "2",
+      "title": "The Super Mario Bros. Movie",
+      "genre": "Animation, Adventure, Comedy ",
+      "runtime": "118",
+      "capacity": 50,
+      "showtime": "06:45PM",
+      "tickets_sold": 44,
+      "description": "The story of The Super Mario Bros. on their journey through the Mushroom Kingdom.",
+      "poster": "https://i.goojara.to/mb_228_228699.jpg"
     },
     {
-      "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "id": "3",
+      "title": "Guardians of the Galaxy Vol. 3 ",
+      "genre": "Action, Adventure, Comedy ",
+      "runtime": "93",
+      "capacity": 50,
+      "showtime": "09:30PM",
+      "tickets_sold": 31,
+      "description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+      "poster": "https://i.goojara.to/mb_228_228726.jpg"
     },
     {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "id": "4",
+      "title": "Mavka: The Forest Song",
+      "genre": " Animation, Adventure, Comedy ",
+      "runtime": "101",
+      "capacity": 40,
+      "showtime": "09:00PM",
+      "tickets_sold": 31,
+      "description": "Mavka must choose between love and duty to protect the Heart of the Forest.",
+      "poster": "https://i.goojara.to/mb_228_228860.jpg"
     },
     {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "id": "5",
+      "title": "Extraction 2",
+      "genre": "Action, Thriller",
+      "runtime": "96",
+      "capacity": 50,
+      "showtime": "03:30PM",
+      "tickets_sold": 45,
+      "description": "After barely surviving his grievous wounds from his mission in Dhaka, Bangladesh, Tyler Rake is back, and his team is ready to take on their next mission.",
+      "poster": "https://i.goojara.to/mb_228_228819.jpg"
     },
     {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
+      "id": "6",
+      "title": "The Mistress of the Forest",
+      "genre": "Short, Action, Adventure, Comedy, Fantasy ",
+      "runtime": "112",
+      "capacity": 30,
+      "showtime": "10:30PM",
+      "tickets_sold": 16,
+      "description": "To overcome his creative block and pull off an impossible deadline, fledgling comic artist Neil must enter the world of his leading character: the mysterious Mistress Of The Forest.",
+      "poster": "https://i.goojara.to/mb_222_222944.jpg"
     },
     {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
+      "id": "7",
+      "title": "Riverdance: The Animated Adventure ",
+      "genre": "Animation, Fantasy ",
+      "runtime": "94",
+      "capacity": 30,
+      "showtime": "07:30PM",
+      "tickets_sold": 22,
+      "description": "An Irish boy named Keegan and a Spanish girl named Moya journey into the mythical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life.",
+      "poster": "https://i.goojara.to/mb_227_227597.jpg"
     },
     {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
+      "id": "8",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "genre": "Animation, Action, Adventure ",
+      "runtime": "115",
+      "capacity": 40,
+      "showtime": "08:30PM",
+      "tickets_sold": 32,
+      "description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+      "poster": "https://i.goojara.to/mb_228_228798.jpg"
     },
     {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
+      "id": "9",
+      "title": "John Wick: Chapter 4 ",
+      "genre": " Action, Crime, Thriller ",
+      "runtime": "99",
+      "capacity": 40,
+      "showtime": "07:30PM",
+      "tickets_sold": 22,
+      "description": "AJohn Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "poster": "https://i.goojara.to/mb_228_228771.jpg"
     },
     {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "id": "10",
+      "title": "Fast X",
+      "genre": "Action, Adventure, Crime",
+      "runtime": "122",
+      "capacity": 50,
+      "showtime": "10:00PM",
+      "tickets_sold": 44,
+      "description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+      "poster": "https://i.goojara.to/mb_228_228800.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Assassin ",
+      "genre": " Action, Crime, Thriller",
+      "runtime": "104",
+      "capacity": 30,
+      "showtime": "06:00PM",
+      "tickets_sold": 12,
+      "description": "A man dies as part of an experimental military program. A former black-ops soldier takes his place to find who killed him.",
+      "poster": "https://i.goojara.to/mb_228_228657.jpg"
+    },
+    {
+      "id": "12",
+      "title": "The Best Man",
+      "genre": "Action, Thriller",
+      "runtime": "104",
+      "capacity": 30,
+      "showtime": "07:00PM",
+      "tickets_sold": 20,
+      "description": "Mercenaries seize control of a remote resort hotel during a wedding and it's up to the best man, the groom and their drunken best friend to stop the terrorists and save the hostages.",
+      "poster": "https://i.goojara.to/mb_228_228738.jpg",
+      "showing_id": "12"
+    },
+    {
+      "id": "13",
+      "title": "Nefarious",
+      "genre": "Horror, Thriller ",
+      "runtime": "100",
+      "capacity": 40,
+      "showtime": "09:00PM",
+      "tickets_sold": 31,
+      "description": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own.",
+      "poster": "https://i.goojara.to/mb_228_228799.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Ant-Man and the Wasp: Quantumania ",
+      "genre": "Action, Adventure, Comedy",
+      "runtime": "111",
+      "capacity": 50,
+      "showtime": "08:00PM",
+      "tickets_sold": 40,
+      "description": "Stranded on a crumbling rig in Baja, a family faces off against a vengeful megalodon shark.",
+      "poster": "https://i.goojara.to/mb_228_228678.jpg"
+    },
+    {
+      "id": "15",
+      "title": "The Black Demon",
+      "genre": "Horror, Sci-Fi, Thriller ",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "tickets_sold": 33,
+      "description": "Delinquent teen-agers ingest a substance and grow thirty feet tall, then proceed to take over a small town.",
+      "poster": "https://i.goojara.to/mb_228_228783.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Mummies",
+      "genre": " Animation, Comedy, Family ",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "tickets_sold": 33,
+      "description": "It follows three mummies as they end up in present-day London and embark on a journey in search of an old ring belonging to the Royal Family, stolen by the ambitious archaeologist Lord Carnaby.",
+      "poster": "https://i.goojara.to/mb_228_228829.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Unseen",
+      "genre": "Horror, Thriller ",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "tickets_sold": 33,
+      "description": "Sam receives a call from Emily a nearly blind woman who is running from her murderous ex in the woods. She must survive the ordeal with Sam being her eyes using video call.",
+      "poster": "https://i.goojara.to/mb_228_228641.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Jurassic world: Fallen Kingdom",
+      "genre": "Action, Adventure, Sci-Fi ",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "tickets_sold": 33,
+      "description": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "poster": "https://i.goojara.to/mb_221_221331.jpg"
+    },
+    {
+      "id": "19",
+      "title": "The Tomorrow Job",
+      "genre": "Action, Sci-Fi",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "tickets_sold": 33,
+      "description": "A team of thieves use a drug that allows them to trade consciousnesses with their future-selves in order to steal tomorrow's secrets.",
+      "poster": "https://i.goojara.to/mb_228_228844.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Transformers: Revenge of the Fallen",
+      "genre": "Action, Sci-Fi, Thrille",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "tickets_sold": 33,
+      "description": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
+      "poster": "https://i.goojara.to/mb_000_221.jpg"
     }
   ]
 }
